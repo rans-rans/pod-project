@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718860570518",
+    "firebase_url": "https://plenty-of-data-699ef-default-rtdb.firebaseio.com",
+    "project_id": "plenty-of-data-699ef",
+    "storage_bucket": "plenty-of-data-699ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718860570518:android:a76e4c3ee49795078b17b7",
+        "android_client_info": {
+          "package_name": "com.rans_innovations.pod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718860570518-so35hs0jau924nfhq5u7t8h91fd9q24l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS_5W5LDnM3uGNeV7d6Cr0rwDUjs67SGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718860570518-so35hs0jau924nfhq5u7t8h91fd9q24l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
